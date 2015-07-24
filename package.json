@@ -1,0 +1,19 @@
+{
+  "name": "ContactListApp",
+  "version": "1.0.0",
+  "description": "Mongodb-Mongojs-Nodejs-Gulp",
+  "main": "server.js",
+   
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "mongojs": "^0.18.2",
+    "express": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
